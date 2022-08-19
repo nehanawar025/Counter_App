@@ -6,3 +6,4 @@ This is a simple Counter App
 
 live demo-->
 
+Go to [JavaScript Project](https://github.com/nehanawar025/Javascript_learning_projects)
